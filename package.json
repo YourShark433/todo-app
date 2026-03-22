@@ -1,10 +1,9 @@
 {
   "name": "todo-app",
-  "homepage": "https://YourShark433.github.io/todo-app", 
+  "homepage": "https://YourShark433.github.io/todo-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
